@@ -1,0 +1,2 @@
+-- create virtual environment and install libraries like numpy, pandas, matplotlib, seaborn, scikit-learn,plotly,gensim
+-- download "Google News vectors negative 300" from Google Drive 
